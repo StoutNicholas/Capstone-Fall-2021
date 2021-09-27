@@ -1,0 +1,29 @@
+"Title:","Store Availability from the Food Environment Atlas Database"
+"SubTitle:","Indicator: SNAP-authorized stores"
+"Time:","2011 - 2017"
+"Unit of Measure:","Count","Count"
+"Citation:","Economic Research Service, United States Department of Agriculture  (2021-01-08). Store Availability: Store Availability | 2017 | 2012 | SNAP-authorized stores, 2011 - 2017. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  008-011-009 doi:https://doi.org/10.6068/DP17C24CA87241"
+"ColumnCount:","6"
+"RowCount:","15"
+
+"Counties within State","2017 (Count)","2012 (Count)"
+"Maricopa",2072.5,2094.5
+"Pima",603.58,586.58
+"Pinal",164.08,157
+"Mohave",150.75,128.08
+"Yavapai",146.17,135
+"Yuma",110.75,106.67
+"Cochise",93.5,101.33
+"Navajo",93.33,83.75
+"Coconino",93.08,77.5
+"Apache",46,59.5
+"Gila",44.75,43.83
+"La Paz",35.08,32.33
+"Santa Cruz",27.25,26.42
+"Graham",24.42,25.25
+"Greenlee",10.08,9.58
+
+
+
+"Publisher:", "United States Department of Agriculture "
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."

@@ -1,0 +1,29 @@
+"Title:","Access and Proximity to Grocery Store from the Food Environment Atlas Database"
+"SubTitle:","Indicator: Population, low access to store"
+"Time:","2015"
+"Unit of Measure:","Count"
+"Citation:","Economic Research Service, United States Department of Agriculture  (2021-01-08). Access and Proximity to Grocery Store: Access and Proximity to Grocery Store | 2015 | Population, low access to store, 2015. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  008-011-001 doi:https://doi.org/10.6068/DP17C24C7FD1030"
+"ColumnCount:","5"
+"RowCount:","15"
+
+"Counties within State","2015"
+"Maricopa",511215.57
+"Pima",218481.73
+"Mohave",88341.58
+"Pinal",80761.85
+"Yavapai",68596.94
+"Cochise",55218.54
+"Apache",50446.81
+"Coconino",41435.55
+"Navajo",41411.33
+"Yuma",39776.53
+"Gila",17451.07
+"Graham",13894.46
+"Santa Cruz",12583.42
+"La Paz",8846.86
+"Greenlee",5895.56
+
+
+
+"Publisher:", "United States Department of Agriculture "
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
