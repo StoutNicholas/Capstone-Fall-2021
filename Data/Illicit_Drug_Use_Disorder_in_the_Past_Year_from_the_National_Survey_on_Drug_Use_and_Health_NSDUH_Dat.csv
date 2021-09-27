@@ -1,0 +1,19 @@
+"Title:","Illicit Drug Use Disorder in the Past Year from the National Survey on Drug Use and Health (NSDUH) Database"
+"SubTitle:","State: Arizona"
+"Time:","2014 - 2019"
+"Unit of Measure:","#","#","#","#","#"
+"Citation:","Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services) (2021-05-04). Illicit Drug Use Disorder in the Past Year: Illicit Drug Use Disorder in the Past Year | Arizona | 12-17 Years Old | 12 Years and Older | 18-25 Years Old | 18 Years and Older | 26 Years and Older, 2014 - 2019. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  102-001-020 doi:https://doi.org/10.6068/DP17C24F1B1061"
+"ColumnCount:","6"
+"RowCount:","5"
+
+"Time","12-17 Years Old","12 Years and Older","18-25 Years Old","18 Years and Older","26 Years and Older"
+"2014",24000,177000,55000,152000,97000
+"2016",26000,198000,65000,172000,108000
+"2017",19000,161000,53000,142000,89000
+"2018",15000,163000,54000,148000,94000
+"2019",20000,191000,61000,171000,110000
+
+
+
+"Publisher:", "Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
