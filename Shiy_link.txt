@@ -1,0 +1,15 @@
+'''
+Name: Nicholas Stout
+Mentor: Dylan Murphy 
+ISTA Capstone Shiny Link
+Date: October 21, 2021
+'''
+#copy the link and past in your broswer
+# give it some time to load might take a few minutes
+#drop down menu will load faster than the map
+#map takes time to load
+#can oyu the drop down menu or can hover mouse over map and selct the factors that will impact the vlaue of the housing marget for the counties in Arizona
+
+#links down below
+
+https://stoutn.shinyapps.io/Housing_Market/
