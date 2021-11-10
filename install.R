@@ -1,0 +1,5 @@
+install.packages("shiny")
+install.packages("leaflet")
+install.packages("tidyverse")
+install.packages("rgdal")
+install.packages("shinythemes")
