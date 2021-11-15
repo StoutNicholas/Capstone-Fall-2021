@@ -1,9 +1,3 @@
-# Capstone-Fall-2021
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StoutNicholas/Capstone-Fall-2021.git/HEAD?labpath=%3Furlpath%3Dshiny%2FShinyapp%2F)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/StoutNicholas/Capstone-Fall-2021.git/HEAD?labpath=%3Furlpath%3Dshiny%2FShinyapp%2F
- 
   https://stoutn.shinyapps.io/Housing_Market/
   
  
