@@ -1,0 +1,1 @@
+Within the Shinyapp folder you will be able to view and download all the files neccesary to run the shiny app on your local computer. 
