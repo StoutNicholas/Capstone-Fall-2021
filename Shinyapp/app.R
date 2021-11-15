@@ -13,8 +13,8 @@ library(tidyverse)
 library(rgdal)
 library(shinythemes)
 
-data <- read.csv('AZ_counties.csv')
-
+data <- read.csv("az_sources_merged.csv")
+#~/shinymap/app/az_sources_merged.csv
 datacl <- data %>% 
     mutate(across(Apache:Yuma, as.numeric)) %>% 
     pivot_longer(cols = -c(Time,Source), names_to = 'County')
@@ -94,3 +94,4 @@ server <- function(input, output) {
 
 # Run the application 
 shinyApp(ui = ui, server = server)
+
